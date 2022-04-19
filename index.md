@@ -20,3 +20,7 @@ Students have begun to think very carefully about the assembly of their spacefra
 Students are preparing their drawings sets for publication. They have carefully documented their pavilion in its entirety and have begun to also document their digital workflow and files. Finally, students have compiled all the artifacts of their digital workflow&mdash; their _Grasshopper_ scripts, 3D models, simulations and digital drawings&mdash; into an organized database.
 
 This is a final exercise in computational design to understand contemporary modes of versioning information as well as ways that it can be productively studied and shared.
+
+## Student Projects
+
+[Example Group](./FirstName_FirstName/README.md)
