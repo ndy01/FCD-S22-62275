@@ -1,11 +1,11 @@
 # FCD-S22-62275
 
-## Responsive Architecture
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
+
+## Responsive Architecture
 
 This repository houses the final projects of student groups in _Fundamentals of Computational Design_&mdash; a course taught at the School of Architecture, Carnegie Mellon University (CMU). The Spring 2022 class has been responding to a prompt that began with the design of a spaceframe that is parametrically driven.
 
