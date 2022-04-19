@@ -2,6 +2,11 @@
 
 ## Responsive Architecture
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
+</p>
+
 This repository houses the final projects of student groups in _Fundamentals of Computational Design_&mdash; a course taught at the School of Architecture, Carnegie Mellon University (CMU). The Spring 2022 class has been responding to a prompt that began with the design of a spaceframe that is parametrically driven.
 
 One of the requirements of the spaceframe is that it be sited somewhere in the immediate surrounds of the _College of Fine Arts_ on CMU's campus. It must follow the description of a "spaceframe" structure. Students should consider at least one functional program to their pavilion&mdash; this could be as simple as an area to read or rest.
