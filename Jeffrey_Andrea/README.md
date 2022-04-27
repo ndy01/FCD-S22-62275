@@ -1,5 +1,5 @@
 **Responsive Architecture**
-
+![hero image](/Jeffrey_Andrea/view1.png)
 Project completed for the spring 2022 run of the Fundamentals of Computational Design course taught at CMU. Explorations focused on responsiveness, performance and fabrication; we designed a space frame system with panelized components of varying materiality (opacity and tint) which could be determined based on solar radiation analysis. As demonstrated in the example project, this system can be applied to all kinds of forms, including organic ones.
 
 The files contain one possible rendition of a pavilion using the system and a custom form we designed.
