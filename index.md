@@ -23,49 +23,27 @@ This is a final exercise in computational design to understand contemporary mode
 
 ## Student Projects
 
-[Adrienne_Ashley](./Adrienne_Ashley/README.md)
-
-[Aidan_Henry](./Aidan_Henry/README.md)
-
-[Anqi_Alexandra](./Anqi_Alexandra/README.md)
-
-[Bennett_Rima](./Bennett_Rima/README.md)
-
-[Carleigh_David](./Carleigh_David/README.md)
-
-[Emily_Eesha](./Emily_Eesha/README.md)
-
-[Eric_Zhuyun](./Eric_Zhuyun/README.md)
-
-[Grace_Brody](./Grace_Brody/README.md)
-
-[I Lok_Jacky](./I Lok_Jacky/README.md)
-
-[Jamie_Alexia](./Jamie_Alexia/README.md)
-
-[Jeffrey_Andrea](./Jeffrey_Andrea/README.md)
-
-[Michael_Xuze](./Michael_Xuze/README.md)
-
-[Neha_Oscar_Akanksha](./Neha_Oscar_Akanksha/README.md)
-
-[Nicholas_Aditya](./Nicholas_Aditya/README.md)
-
-[Olive_Jaden](./Olive_Jaden/README.md)
-
-[Srishty_Nakshatra_Kaitlyn](./Srishty_Nakshatra_Kaitlyn/README.md)
-
-[Suzie_Jackie](./Suzie_Jackie/README.md)
-
-[Tewei_Andrew](./Tewei_Andrew/README.md)
-
-[Vanshika_Graham](./Vanshika_Graham/README.md)
-
-[Victor_Norman](./Victor_Norman/README.md)
-
-[Violet_Gloria_Sonia](./Violet_Gloria_Sonia/README.md)
-
-[Zihan_Tianshu](./Zihan_Tianshu/README.md)
-
+[Adrienne_Ashley](./Adrienne_Ashley/README.md)<br/>
+[Aidan_Henry](./Aidan_Henry/README.md)<br/>
+[Anqi_Alexandra](./Anqi_Alexandra/README.md)<br/>
+[Bennett_Rima](./Bennett_Rima/README.md)<br/>
+[Carleigh_David](./Carleigh_David/README.md)<br/>
+[Emily_Eesha](./Emily_Eesha/README.md)<br/>
+[Eric_Zhuyun](./Eric_Zhuyun/README.md)<br/>
+[Grace_Brody](./Grace_Brody/README.md)<br/>
+[I Lok_Jacky](./I Lok_Jacky/README.md)<br/>
+[Jamie_Alexia](./Jamie_Alexia/README.md)<br/>
+[Jeffrey_Andrea](./Jeffrey_Andrea/README.md)<br/>
+[Michael_Xuze](./Michael_Xuze/README.md)<br/>
+[Neha_Oscar_Akanksha](./Neha_Oscar_Akanksha/README.md)<br/>
+[Nicholas_Aditya](./Nicholas_Aditya/README.md)<br/>
+[Olive_Jaden](./Olive_Jaden/README.md)<br/>
+[Srishty_Nakshatra_Kaitlyn](./Srishty_Nakshatra_Kaitlyn/README.md)<br/>
+[Suzie_Jackie](./Suzie_Jackie/README.md)<br/>
+[Tewei_Andrew](./Tewei_Andrew/README.md)<br/>
+[Vanshika_Graham](./Vanshika_Graham/README.md)<br/>
+[Victor_Norman](./Victor_Norman/README.md)<br/>
+[Violet_Gloria_Sonia](./Violet_Gloria_Sonia/README.md)<br/>
+[Zihan_Tianshu](./Zihan_Tianshu/README.md)<br/>
 [Example Group](./FirstName_FirstName/README.md)
 
