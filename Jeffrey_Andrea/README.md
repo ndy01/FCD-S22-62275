@@ -9,7 +9,7 @@ The files contain one possible rendition of a pavilion using the system and a cu
 - [Grasshopper script](https://drive.google.com/file/d/1gHD-AdS2vbgAWeS_t9_XWexK7cgxgyCU/view?usp=sharing) - generates the space frame and panelization
 - [Rhino file](https://drive.google.com/file/d/1AGwYfzpOjLsHerYscWlUozqMDaiD-0ep/view?usp=sharing) - contains example project geometries, as well as the final result generated from Grasshopper script.
 - [Example EPW file containing weather information](https://drive.google.com/file/d/1_jE3WKN9-4UvzYelehn3FGsGfpIPM6NZ/view?usp=sharing) - use this when running the script on the demo Rhino file
-- Additional assets - [HDRI derived from Google Maps](https://drive.google.com/file/d/1_jE3WKN9-4UvzYelehn3FGsGfpIPM6NZ/view?usp=sharing); 3D buildings of CFA and Hunt Library courtesy of SketchUp Warehouse
+- Additional assets - [HDRI derived from Google Maps](https://drive.google.com/file/d/11D5qhj9qeMF_XlBTt3QH_fKQuiYEJFuE/view?usp=sharing); 3D buildings of CFA and Hunt Library courtesy of SketchUp Warehouse
 
 **Instructions/3D Assets &amp; Organization**
 
