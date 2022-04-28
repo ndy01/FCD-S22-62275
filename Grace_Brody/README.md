@@ -17,14 +17,18 @@ Reverbrae is a structure on the Carnegie Mellon University cut which serves a mu
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a <a href="https://drive.google.com/file/d/1IQOZvJTd32Hmql3mc7BvDlo_Pof-2uAt/view?usp=sharing">Grasshopper Script</a>; which is a file that contains the algorithm to generatively design our spaceframe. You can use it in conjuction with the <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a> to see how to structure goes together. 
+
+In Grasshopper, the structure uses a base curve that was generated in Rhino 7 using the "Sweep 2", "Project", and "Trim" commands. This surface is internalized in the Grasshopper file and will not need recreated. To make the script work, a <a href="https://drive.google.com/file/d/1PK4at0mnhMgRzYYU6OjgPazVxbAiFMui/view?usp=sharing">EPW File </a> for Pittsburgh's weather is needed. An input of the EPW is highlighted in the Grasshopper script. This file contains sun path information that controls the position of the sun based on the hour of the year. The position of the sun chnages the rotation of the exterior panels of the structure. The hour of the year can be changed with a slider that is highlighted in the Grasshopper Script. 
+
+To arrive at the final design, a series of edits were conducted in Rhino 7. These steps are described in the <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>
 
 **Dependencies**
 
-The _Grasshopper_ script uses:
+The <a href="https://drive.google.com/file/d/1IQOZvJTd32Hmql3mc7BvDlo_Pof-2uAt/view?usp=sharing">Grasshopper Script</a> uses:
   - Lunchbox
   - Ladybug
   - Pufferfish
 
-Install these dependencies and then open the `.gh` file in Rhino3D.
+Install these dependencies and then open the <a href="https://drive.google.com/file/d/1IQOZvJTd32Hmql3mc7BvDlo_Pof-2uAt/view?usp=sharing">Grasshopper Script</a> in Rhino3D.
 
