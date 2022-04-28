@@ -1,7 +1,8 @@
 # Example Project
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    <img src="![Final Render 2](https://user-images.githubusercontent.com/104153711/165654317-a3f9fdc4-5d81-4ef7-92ff-b2d9b60771a8.jpg)
+" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
