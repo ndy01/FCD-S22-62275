@@ -23,8 +23,10 @@ In Grasshopper, the structure uses a base curve that was generated in Rhino 7 us
 
 ![Reverbrae Grasshopper Script Image](https://user-images.githubusercontent.com/104153711/165669413-4357d5b1-51b7-4ec6-a960-7ba6f82cbbc7.png)
 
-
 To arrive at the final design, a series of edits were conducted in Rhino 7. These steps are described in the <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>.
+
+![Rhino 7 File Image](https://user-images.githubusercontent.com/104153711/165669637-e4e467e2-249a-46e1-b2c4-69bcdb4f929a.jpg)
+
 
 The design for the module for the structure is found in the <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>. This module is derived from the original structure, but was modeled with more detail in Rhino 7. 
 
