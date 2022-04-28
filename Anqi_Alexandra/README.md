@@ -15,7 +15,7 @@ In this project, we were looking for a systematic way to design and construct a 
 
 ## Instructions for Use
 
-This project uses a Grasshopper script— which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 7 to open the Anqi_Alexandra_Final_Model_script.gh file. The Grasshopper script requires downloading the Rhino Plugin Ladybug and Lunchbox to run the daylight simulations as well as the responsive simulations. 
+This project uses a Grasshopper script— which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 7 to open the [Anqi_Alexandra_Final_Model_script file](https://github.com/l00sed/FCD-S22-62275/blob/7e7f06e2b88e69d09bde91e20efe124b639f2230/Anqi_Alexandra/Anqi_Alexandra_Final_Model_script.gh) file. The Grasshopper script requires downloading the Rhino Plugin Ladybug and Lunchbox to run the daylight simulations as well as the responsive simulations. 
 
 **Dependencies**
 
