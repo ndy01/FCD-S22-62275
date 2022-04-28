@@ -13,7 +13,7 @@ Reverbrae is a structure on the Carnegie Mellon University cut which serves a mu
 - `.pdf` of M6 submission
 - additional `.gifs` or animated content
 - `.gh` script file
-- `https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing` CAD model file
+- <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>
 - this `.md` README
 
 ## Instructions for Use
