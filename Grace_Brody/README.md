@@ -1,8 +1,6 @@
 # Reverbrae
 
 ![Final Render 2](https://user-images.githubusercontent.com/104153711/165654317-a3f9fdc4-5d81-4ef7-92ff-b2d9b60771a8.jpg)
-![Final Render 1](https://user-images.githubusercontent.com/104153711/165657110-8e7420f6-221c-4810-b991-5542653a360c.jpg)
-![Final Render 5](https://user-images.githubusercontent.com/104153711/165656981-d3684cf9-4c24-44b8-883f-3db67f8e8137.jpg)
 
 
    <p align="center">Exterior Render</p>
@@ -15,7 +13,7 @@ Reverbrae is a structure on the Carnegie Mellon University cut which serves a mu
 - `.pdf` of M6 submission
 - additional `.gifs` or animated content
 - `.gh` script file
-- `.3dm` CAD model file
+- `https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing` CAD model file
 - this `.md` README
 
 ## Instructions for Use
