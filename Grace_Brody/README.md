@@ -2,7 +2,7 @@
 
 ![Final Render 2](https://user-images.githubusercontent.com/104153711/165654317-a3f9fdc4-5d81-4ef7-92ff-b2d9b60771a8.jpg)
 
-    <p align="center">Exterior Render</p>
+   <p align="center">Exterior Render</p>
 </p>
 
 This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
