@@ -31,7 +31,7 @@ This is a final exercise in computational design to understand contemporary mode
 [Emily_Eesha](./Emily_Eesha/README.md)<br/>
 [Eric_Zhuyun](./Eric_Zhuyun/README.md)<br/>
 [Grace_Brody](./Grace_Brody/README.md)<br/>
-[I\ Lok_Jacky](./I Lok_Jacky/README.md)<br/>
+[I_Lok_Jacky](./I_Lok_Jacky/README.md)<br/>
 [Jamie_Alexia](./Jamie_Alexia/README.md)<br/>
 [Jeffrey_Andrea](./Jeffrey_Andrea/README.md)<br/>
 [Michael_Xuze](./Michael_Xuze/README.md)<br/>
