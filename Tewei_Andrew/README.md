@@ -1,11 +1,11 @@
-# Example Project
+# Rhombus Pavillion 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
-    <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
+    <img src="https://user-images.githubusercontent.com/104547042/165678480-0a7932df-7956-421e-baad-3b476d11122f.jpg" />
+    <p align="center">Project by Andrew Yoon and William Song</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+In this project, our goal is to design a pavilion with a basic architectural responsive system that aims to adapt the environmental conditions of the site. One of our major areas of interest is the lighting or solar radiation, which is a crucial element to consider when designing in an open area with no shades. In order to respond to this condition, the overall structure of our pavilion and the apertures within the panels installed that face directly on the sun path are partially closed to make sure that there are different amounts of lights shedding into the interiors of our pavilion. For the site of our pavilion, we have decided to pick the sloped grassland next to the tennis court because a lot of people use the area to relax or gather with friends, meaning that building a pavilion there would have the potential to provide them a space with multifunctional purposes of meeting space where people can convene and relaxation space where people can take rests.
 
 **Contents**
 
@@ -23,7 +23,6 @@ This project uses a _Grasshopper_ script&mdash; which is a file that contains th
 
 The _Grasshopper_ script uses:
   - Lunchbox
-  - Ladybug
   - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
