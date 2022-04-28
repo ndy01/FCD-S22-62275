@@ -10,7 +10,7 @@ Reverbrae is a structure on the Carnegie Mellon University cut which serves a mu
 **Contents**
 
 - <a href="https://drive.google.com/file/d/19P5c9awlYS7Qil1kt18GddW5fEIMRHzb/view?usp=sharing">M6 PDF</a>
-- <a href="https://drive.google.com/file/d/19P5c9awlYS7Qil1kt18GddW5fEIMRHzb/view?usp=sharing">Sunlight GIF</a> and <a href="https://drive.google.com/file/d/1GvlSnrJTQY0O2DFIGIWG4seEBtZRlmal/view?usp=sharing">Module Assembly GIF</a>
+- <a href="https://drive.google.com/file/d/1V1-ISXI7UBL-NjZOvCuPtkcihTg_CGj9/view?usp=sharing">Sunlight GIF</a> and <a href="https://drive.google.com/file/d/1GvlSnrJTQY0O2DFIGIWG4seEBtZRlmal/view?usp=sharing">Module Assembly GIF</a>
 - <a href="https://drive.google.com/file/d/1IQOZvJTd32Hmql3mc7BvDlo_Pof-2uAt/view?usp=sharing">Grasshopper Script</a>
 - <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>
 - this `.md` README
