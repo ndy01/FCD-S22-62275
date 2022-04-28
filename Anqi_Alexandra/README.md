@@ -5,7 +5,7 @@
     <p align="center">Responsive Canopy, Anqi & Alexandra</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+In this project, we were looking for a systematic way to design and construct a pavilion that is responsive to the sunlight changes. The idea was inspired by the first-semester architecture assembly for all studios on the CFA lawn, in which we noticed that the tent we sent up was not very helpful in blocking the sun, and the inside was too humid. We explored by taking the base 2d plan and transforming it to create dynamic forms and then placing the diamond-shaped structure on top. We then made the responsive opening of the diamond facade based on the distance between the sunlight (the closer the distance between the sun and the individual center of the diamond, the smaller the opening is). The final product is constructed by the assembly of truss systems with the responsive diamond facade, thus forming this free-standing structure.
 
 **Contents**
 
