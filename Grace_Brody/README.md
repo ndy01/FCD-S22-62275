@@ -3,7 +3,7 @@
 ![Final Render 2](https://user-images.githubusercontent.com/104153711/165654317-a3f9fdc4-5d81-4ef7-92ff-b2d9b60771a8.jpg)
 
 
-   <p align="center">Exterior Render</p>
+   <p align="center"></p>
 </p>
 
 Reverbrae is a structure on the Carnegie Mellon University cut which serves a multi use performance space. Its shape is a funnel which amplifies the sound out into the campus and improves the acoustics of the space. Reverbrae is also reminiscent of a spiral with benches that are generated from the overarching structure. The structure slopes down towards the south which provides shade at various points in the day and diffuses sunlight throughout the structure. Additionally a double layered system is used with the space frame which softens the light and creates a variety of lighting conditions throughout the day. Within the double layered system there is a series of solar panels which charge during the day and illuminate Reverbrae at night. 
