@@ -4,15 +4,14 @@
 
 
    <p align="center"></p>
-</p>
 
 Reverbrae is a structure on the Carnegie Mellon University cut which serves a multi use performance space. Its shape is a funnel which amplifies the sound out into the campus and improves the acoustics of the space. Reverbrae is also reminiscent of a spiral with benches that are generated from the overarching structure. The structure slopes down towards the south which provides shade at various points in the day and diffuses sunlight throughout the structure. Additionally a double layered system is used with the space frame which softens the light and creates a variety of lighting conditions throughout the day. Within the double layered system there is a series of solar panels which charge during the day and illuminate Reverbrae at night. 
 
 **Contents**
 
 - `.pdf` of M6 submission
-- additional `.gifs` or animated content
-- `.gh` script file
+- <a href="https://drive.google.com/file/d/1V1-ISXI7UBL-NjZOvCuPtkcihTg_CGj9/view?usp=sharing">Sunlight GIF</a> and <a href="https://drive.google.com/file/d/1GvlSnrJTQY0O2DFIGIWG4seEBtZRlmal/view?usp=sharing">Module Assembly GIF</a>
+- <a href="https://drive.google.com/file/d/1IQOZvJTd32Hmql3mc7BvDlo_Pof-2uAt/view?usp=sharing">Grasshopper Script</a>
 - <a href="https://drive.google.com/file/d/1g947DVzAWE23Nptva18PhQjSoFiyp_rT/view?usp=sharing">Rhino 7 File </a>
 - this `.md` README
 
