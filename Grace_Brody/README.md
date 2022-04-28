@@ -1,7 +1,7 @@
 # Reverbrae
 
 ![Final Render 2](https://user-images.githubusercontent.com/104153711/165654317-a3f9fdc4-5d81-4ef7-92ff-b2d9b60771a8.jpg)
-![Final Render 2](https://user-images.githubusercontent.com/104153711/165656976-2c410ba2-9c22-4aa9-9582-66710e84747a.jpg)
+![Final Render 1](https://user-images.githubusercontent.com/104153711/165657110-8e7420f6-221c-4810-b991-5542653a360c.jpg)
 ![Final Render 5](https://user-images.githubusercontent.com/104153711/165656981-d3684cf9-4c24-44b8-883f-3db67f8e8137.jpg)
 
 
