@@ -1,7 +1,7 @@
 # Example Project
 
 <p align="center">
-    ![alt text]("https://github.com/l00sed/FCD-S22-62275/blob/main/Anqi_Alexandra/Anqi_Alexandra_main_render.png")
+    ![Anqi_Alexandra_main_render#2](https://user-images.githubusercontent.com/71512705/165667745-b46dfbea-2997-492d-a818-48cd17932a44.png)
     <p align="center">Responsive Canopy, Anqi & Alexandra</p>
 </p>
 
